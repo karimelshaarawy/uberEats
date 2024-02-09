@@ -1,0 +1,30 @@
+.wide-image{
+    margin-top: 25px;
+    width: 100%;
+    height: 250px;
+    object-fit: cover;
+}
+.main-container{
+    margin: 10px auto 0 auto;
+    width:96%;
+
+}
+.title{
+    font-size: 40px;
+    margin-bottom: 0;
+}
+.subtitle{
+    font-size: larger;
+    margin-top: 0;
+}
+.image-list{
+    width: 100%;
+    height: 100%;
+    border-radius: 25px;
+}
+.div-right{
+    width: 75%;
+    float: right;
+    margin-top: 20px;
+}
+
